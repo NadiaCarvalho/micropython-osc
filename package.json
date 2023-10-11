@@ -1,6 +1,11 @@
 {
   "urls": [
-    ["micropython-osc/uosc", "github:NadiaCarvalho/micropython-osc/uosc"],
+    ["uosc/__init__.py", "github:NadiaCarvalho/micropython-osc/uosc/__init__.py"],
+    ["uosc/client.py", "github:NadiaCarvalho/micropython-osc/uosc/client.py"],
+    ["uosc/common.py", "github:NadiaCarvalho/micropython-osc/uosc/common.py"],
+    ["uosc/fakelogging.py", "github:NadiaCarvalho/micropython-osc/uosc/fakelogging.py"],
+    ["uosc/server.py", "github:NadiaCarvalho/micropython-osc/uosc/server.py"],
+    ["uosc/threadedclient.py", "github:NadiaCarvalho/micropython-osc/uosc/threadedclient.py"],
   ],
   "deps": [
   ],
